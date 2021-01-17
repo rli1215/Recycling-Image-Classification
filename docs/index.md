@@ -1,4 +1,4 @@
-![Recycling bins](recycling bins.png)
+![Recycling bins](recycling%20bins.jpg)
 
 ## Summary
 Recycling can be difficult and confusing, which is why many people skip this step when discarding waste. Instead of taking the time to differentiate and separate each type of recyclable waste, I agree that it is much easier to just toss everything in the same garbage pile. However, with landfills causing harm to our environment and the increase in single-use plastics, waste is one of the largest environmental issues even though it's often ignored. In the US, less emphasis is put on recycling, and many households don't put in the effort to properly recycle waste. I wanted to see if machine learning can make recycling easier with image classification. Previously, I have worked with machine learning and classification using supervised learning. However, I wanted to learn how to classify images, and through research and helpful websites, I was able to complete this project. For the dataset, I used images (from https://github.com/garythung/trashnet) of cardboard, plastic, paper, glass, and metal items. 
