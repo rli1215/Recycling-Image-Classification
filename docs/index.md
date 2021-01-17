@@ -11,15 +11,15 @@ I used a Sequential model and added 3 convolutional layers and 2 dense hidden la
 The model had an average accuracy of 0.412. The accuracies of the training sets were high, but not for the validation sets.
 The graph below shows the accuracy changes during the training phase.
 
-![Model accuracy graph](https://github.com/rli1215/Recycling-Image-Classification/blob/main/model.png)
+![Model accuracy graph](https://github.com/rli1215/Recycling-Image-Classification/model.png)
 
 I used a KerasClassifier to hyperparameter tune the model. The best parameters were determined to be batch size of 16 and 'relu' activation function.
  
-![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/hyperparameter%20tuning%20results.png)
+![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/hyperparameter%20tuning%20results.png)
 
 After using these parameters, the model had an average accuracy of 0.472. This is slightly better than the model's performance before tuning.
 
-![Tuned model accuracy graph](https://github.com/rli1215/Recycling-Image-Classification/blob/main/tuned%20model.png)
+![Tuned model accuracy graph](https://github.com/rli1215/Recycling-Image-Classification/tuned%20model.png)
 
 ## Model Testing
 When evaluating the model's performance on the testing set, the accuracy was 56.05%. 
