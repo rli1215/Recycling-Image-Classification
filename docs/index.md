@@ -5,7 +5,7 @@ Electronic waste is also a prevalent issue that should be addressed. Especially 
 ## Data preparation
 The dataset of images of recyclable materials includes a couple of thousand images of cardboard, plastic, paper, glass, and metal. I also collected 319 images of e-waste from the internet, like pictures of broken phones, old televisions, broken laptops, e-waste piles, circuit board parts, and other electronics. In Jupyter Notebook, I converted these images into 2-D arrays containing the RGB values per pixel per row. The values are then scaled and split into training and testing sets.
 
-## Model training
+## Model training!
 I used a Sequential model and added 3 convolutional layers and 2 dense hidden layers with dropout and batch normalization after each layer. Lastly, I added the output layer with 6 neurons for the 6 classes. To decrease overfitting, used Early Stopping to stop training when accuracy is getting worse with each epoch, decreased the size and complexity of the network, and add 2 max pooling layers. 
 
 The model had an average accuracy of 0.412. The accuracies of the training sets were high, but not for the validation sets.
