@@ -15,11 +15,11 @@ The graph below shows the accuracy changes during the training phase.
 
 I used a KerasClassifier to hyperparameter tune the model. The best parameters were determined to be batch size of 16 and 'relu' activation function.
  
-![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/hyperparameter%20tuning%20results.png)
+![Hyperparameter tuning best parameters](hyperparameter%20tuning%20results.png)
 
 After using these parameters, the model had an average accuracy of 0.472. This is slightly better than the model's performance before tuning.
 
-![Tuned model accuracy graph](https://github.com/rli1215/Recycling-Image-Classification/blob/main/tuned%20model.png)
+![Tuned model accuracy graph](tuned%20model.png)
 
 ## Model Testing
 When evaluating the model's performance on the testing set, the accuracy was 56.05%. 
