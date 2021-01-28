@@ -1,4 +1,6 @@
 # Recycling Image Classification
+https://rli1215.github.io/Recycling-Image-Classification/
+
 This Deep Learning project classifies images of recycleable materials, using CNN, into 6 categories: cardboard, glass, metal, paper, plastic, and e-waste.
 
 The 'recycling image classification project' Jupyter Notebook contains the code to run this project, including data preparation, model construction, training, and testing. (The hyperparameter tuning section takes a while to run, can skip running this section as the best parameters are already determined)
