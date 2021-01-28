@@ -10,10 +10,10 @@ Line graph of the accuracy of training and validation set at each epoch when fit
 
 ![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/docs/model.png)
 
-Line graph of accuracy when fitting after the model is hyperparameter tuned:
-
-![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/docs/tuned%20model.png)
-
 Best parameters printed after hyperparameter tuning:
 
 ![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/docs/hyperparameter%20tuning%20results.png)
+
+Line graph of accuracy when fitting after the model is hyperparameter tuned:
+
+![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/docs/tuned%20model.png)
