@@ -19,3 +19,5 @@ Best parameters printed after hyperparameter tuning:
 Line graph of accuracy when fitting after the model is hyperparameter tuned:
 
 ![Hyperparameter tuning best parameters](https://github.com/rli1215/Recycling-Image-Classification/blob/main/docs/tuned%20model.png)
+
+Obtained a testing accuracy of 56.05%.
